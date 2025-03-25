@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Carla Kathiely - Currículo</title>
+ <link rel="stylesheet" href="style.css">
+</head>
+<body>
+ <header>
+ <h1>Carla Kathiely</h1>
+ <p>Desenvolvedora Web e Designer Gráfico</p>
+ <img src="foto.jpg" alt="Foto de Carla Kathiely">
+ </header>
+ <main>
+ <section>
+ <h2>Informações Pessoais</h2>
+ <ul>
+ <li>Nome: Carla Kathiely</li>
+ <li>Contato: carla.kathiely@email.com</li>
+ <li>Localização: São Paulo, Brasil</li>
+ </ul>
+ </section>
+ <section>
+ <h2>Formação Acadêmica</h2>
+ <ul>
+ <li>Cursou Graduação em Ciência da Computação</li>
+ <li>Universidade XYZ</li>
+ </ul>
+ </section>
+ <section>
+ <h2>Experiência Profissional</h2>
+ <ul>
+ <li>Desenvolvedora Web na Empresa ABC</li>
+ 
+ </ul>
+ </section>
+ <section>
+ <h2>Habilidades e Competências</h2>
+ <ul>
+ <li>Desenvolvimento Web</li>
+ <li>HTML, CSS, JavaScript</li>
+ <li>Frameworks: React, Angular</li>
+ <li>Designer Gráfico</li>
+ <li>Adobe Creative Suite</li>
+ </ul>
+ </section>
+ <section>
+ <li><a href="https://carla-kathiely-portfolio.com">Portfólio</a></li>
+ </ul>
+ </section>
+ </main>
+</body>
+</html>
